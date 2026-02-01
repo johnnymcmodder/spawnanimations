@@ -2,10 +2,7 @@ Spawn Animations
 
 Add cool animations to mobs when spawning.
 
-![alt text][1]
-![alt text][2]
-![alt text][3]
-![alt text][4]
-![alt text][5]
+I didn't know how to import images, so here's the imgur link :)
+https://imgur.com/a/CNWftU4
 
-[1]: https://imgur.com/QIKILJC
+Hope you like it, made for pingumaster
