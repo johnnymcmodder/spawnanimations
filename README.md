@@ -2,6 +2,10 @@ Spawn Animations
 
 Add cool animations to mobs when spawning.
 
-Here's our logo (hover to see the title text):
+![alt text][1]
+![alt text][2]
+![alt text][3]
+![alt text][4]
+![alt text][5]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png
+[1]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png]
