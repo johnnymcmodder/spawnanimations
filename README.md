@@ -8,4 +8,4 @@ Add cool animations to mobs when spawning.
 ![alt text][4]
 ![alt text][5]
 
-[1]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png]
+[1]: https://imgur.com/QIKILJC
